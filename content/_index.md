@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: No BS Product Management
-    subtitle: Your guide to B2B marketing in the real world.
+    subtitle: >-
+      Your guide to practical product management in the real world of startups,
+      enterprises and everything in between.
     content: >-
       This book is your go-to guide for all marketing channels. Learn how to
       create effective landing pages, compelling ads, creative copywriting and
