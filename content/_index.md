@@ -6,10 +6,13 @@ sections:
     subtitle: >-
       Your guide to practical product management in the real world of startups,
       enterprises and everything in between.
-    content: >-
-      This book is your go-to guide for all marketing channels. Learn how to
-      create effective landing pages, compelling ads, creative copywriting and
-      converting marketing materials for any business.
+    content: >+
+      This book is your go-to guide for product management in the wild... No
+      more complicated frameworks that you have to memorize and have no use in
+      the practical day to day busy lives of product managers! This is the real
+      deal - simple, easy, and short, but guaranteed to have an impact on your
+      work!
+
     actions:
       - label: Get the book
         url: /pricing
