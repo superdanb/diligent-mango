@@ -4,13 +4,16 @@ sections:
   - type: hero_section
     title: No BS Product Management
     subtitle: Product management the silicon-valley-top-companies way
-    content: >+
-      This book is your go-to guide for product management in the wild... No
-      more complicated frameworks that you have to memorize and have no use in
-      the practical day to day busy lives of product managers! This is the real
-      deal - simple, easy, and short, but guaranteed to have an impact on your
-      work!
+    content: >
+      Top companies share a playbook for how to do product management
 
+      No one has shared this playbook.
+
+
+      After years in top companies, we decided to help the product management
+      community and share how top companies do product management. No BS, no
+      fluff, just real and actionable frameworks for the most common situations
+      in the day of product managers
     actions:
       - label: Get the book
         url: /pricing
