@@ -104,8 +104,9 @@ sections:
       - content: "### Performance Marketing\nKnow your PPC from your CPA and CTR —\_a quick start guide to performance marketing channels, setups, budgeting and creative."
         image_position: left
         image_width: twenty-five
-      - content: >-
-          ### The Truth About Branding
+      - content: >
+          ### The Truth About Branding 1
+
 
           A brand is merely a collection of touchpoints between your company and
           your customers. Learn how to make those interactions count.
